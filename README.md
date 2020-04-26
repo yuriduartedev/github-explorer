@@ -29,6 +29,8 @@
 
 ## 📋 Projeto
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cdeaa970e74243a0bd902779f39e3200)](https://app.codacy.com/manual/yuriduarte/github-explorer?utm_source=github.com&utm_medium=referral&utm_content=yuriduarte/github-explorer&utm_campaign=Badge_Grade_Dashboard)
+
 * Aplicação desenvolvida para realizar pesquisas de repositórios utilizando a API do Github.<br><br><br>
 
 <h6 align="center">
