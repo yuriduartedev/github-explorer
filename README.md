@@ -5,26 +5,26 @@
 <h4 align="center">
 	🕵🏻‍♂️ Github Explorer 🔎
 </h4>
-<p align="center">  
-  
+<p align="center">
+
   <img alt="language version" src="https://img.shields.io/badge/Node-v_12.16.2-339933?logo=node.js">
-  
+
   <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
-  
+
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/yuriduarte/github-explorer">
-  
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/yuriduarte/github-explorer"> 
-  
+
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/yuriduarte/github-explorer">
+
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yuriduarte/github-explorer?color=%2304D361">
-  
+
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/yuriduarte/github-explorer">
-  
+
  <a href="https://app.codacy.com/manual/yuriduarte/github-explorer?utm_source=github.com&utm_medium=referral&utm_content=yuriduarte/github-explorer&utm_campaign=Badge_Grade_Dashboard">
     <img src="https://api.codacy.com/project/badge/Grade/cdeaa970e74243a0bd902779f39e3200"/></a>
-    
+
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-  
+
 </p>
 
 
@@ -44,13 +44,17 @@
 </h6>
 
 <p align="center">
-  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/github-explorer/blob/master/.github/home.png">
+  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/github-explorer/blob/master/.github/video-01.gif">
 </p>
 
 <br>
 
+<h6 align="center">
+    📱Mobile
+</h6>
+
 <p align="center">
-  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/github-explorer/blob/master/.github/nova-ideia.png">
+  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/github-explorer/blob/master/.github/video-02.gif">
 </p>
 
 <br>
