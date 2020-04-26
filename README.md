@@ -15,6 +15,8 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yuriduarte/github-explorer?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/yuriduarte/github-explorer">
+  
+  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cdeaa970e74243a0bd902779f39e3200)](https://app.codacy.com/manual/yuriduarte/github-explorer?utm_source=github.com&utm_medium=referral&utm_content=yuriduarte/github-explorer&utm_campaign=Badge_Grade_Dashboard)
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
@@ -28,8 +30,6 @@
 </p>
 
 ## 📋 Projeto
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cdeaa970e74243a0bd902779f39e3200)](https://app.codacy.com/manual/yuriduarte/github-explorer?utm_source=github.com&utm_medium=referral&utm_content=yuriduarte/github-explorer&utm_campaign=Badge_Grade_Dashboard)
 
 * Aplicação desenvolvida para realizar pesquisas de repositórios utilizando a API do Github.<br><br><br>
 
