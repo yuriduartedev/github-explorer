@@ -39,23 +39,12 @@
 
 * Aplicação desenvolvida para realizar pesquisas de repositórios utilizando a API do Github.<br><br><br>
 
-<h6 align="center">
-    🖥Desktop
-</h6>
 
 <p align="center">
-  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/github-explorer/blob/master/.github/video-01.gif">
+  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/github-explorer/blob/master/.github/mockup-gif.gif">
 </p>
 
 <br>
-
-<h6 align="center">
-    📱Mobile
-</h6>
-
-<p align="center">
-  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/github-explorer/blob/master/.github/video-02.gif">
-</p>
 
 <br>
 
