@@ -88,7 +88,7 @@ export const Repositories = styled.div`
     text-decoration: none;
 
     display: flex;
-    /* align-items: center; */
+    align-items: center;
     transition: transform 0.2s;
 
     & + a {
