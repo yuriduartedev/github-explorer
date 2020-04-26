@@ -10,6 +10,18 @@ export default createGlobalStyle`
     box-sizing: border-box;
   }
 
+  :root {
+    font-size: 40%;
+
+    @media (min-width: 768px) {
+      font-size: 50%;
+    }
+
+    @media (min-width: 1024px) {
+      font-size: 62.5%;
+    }
+  }
+
   body {
     background: #F0F0F5 url(${githubBackground}) no-repeat 70% top;
     -webkit-font-smoothing: antialiased;

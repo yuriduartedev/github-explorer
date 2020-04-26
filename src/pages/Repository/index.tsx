@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useRouteMatch, Link } from 'react-router-dom';
 import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
+import { GoStar, GoRepoForked, GoIssueOpened } from 'react-icons/go';
 import api from '../../services/api';
 
 import { Header, RepositoryInfo, Issues } from './styles';
@@ -50,7 +51,9 @@ const Repository: React.FC = () => {
   return (
     <>
       <Header>
-        <img src={logoImg} alt="Github Explorer" />
+        <Link to="/">
+          <img src={logoImg} alt="Github Explorer" />
+        </Link>
         <Link to="/">
           <FiChevronLeft size={16} />
           Voltar
@@ -71,16 +74,25 @@ const Repository: React.FC = () => {
           </header>
           <ul>
             <li>
-              <strong>{repository.stargazers_count}</strong>
-              <span>Stars</span>
+              <span>
+                <GoStar />
+              </span>
+              <span>Stars </span>
+              <span>{repository.stargazers_count}</span>
             </li>
             <li>
-              <strong>{repository.forks_count}</strong>
-              <span>Forks</span>
+              <span>
+                <GoRepoForked />
+              </span>
+              <span>Forks </span>
+              <span>{repository.forks_count}</span>
             </li>
             <li>
-              <strong>{repository.open_issues_count}</strong>
-              <span>Issues abertas</span>
+              <span>
+                <GoIssueOpened />
+              </span>
+              <span>Issues </span>
+              <span>{repository.open_issues_count}</span>
             </li>
           </ul>
         </RepositoryInfo>

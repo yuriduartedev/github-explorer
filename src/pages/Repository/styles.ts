@@ -28,23 +28,34 @@ export const RepositoryInfo = styled.section`
   header {
     display: flex;
     align-items: center;
+    flex: 1;
 
     img {
-      width: 120px;
-      height: 120px;
+      width: 60px;
+      min-width: 60px;
+      height: 60px;
       border-radius: 50%;
+    }
+
+    @media (min-width: 768px) {
+      img {
+        width: 120px;
+        min-width: 120px;
+        height: 120px;
+        border-radius: 50%;
+      }
     }
 
     div {
       margin-left: 24px;
 
       strong {
-        font-size: 36px;
+        font-size: 4rem;
         color: #3d3d4d;
       }
 
       p {
-        font-size: 18px;
+        font-size: 3rem;
         color: #737380;
       }
     }
@@ -52,31 +63,71 @@ export const RepositoryInfo = styled.section`
 
   ul {
     display: flex;
+    justify-content: center;
     list-style: none;
     margin-top: 40px;
 
     li {
+      background: #fff;
+      box-shadow: 0 4px 16px -8px rgba(1, 1, 1, 0.1);
+      display: flex;
+      padding: 10px;
+      border-radius: 5px;
+      justify-content: center;
+      align-items: center;
+      transition: transform 0.3s;
+
       & + li {
-        margin-left: 80px;
+        margin-left: 16px;
+      }
+
+      &:hover {
+        transform: translateY(-3px);
       }
 
       strong {
+        margin-left: 5px;
         display: block;
-        font-size: 36px;
+        font-size: 20px;
 
         color: #3d3d4d;
       }
 
       span {
-        display: block;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 3px;
         margin-top: 4px;
         color: #6c6c80;
+
+        &:nth-child(2) {
+          display: none;
+        }
+
+        @media (min-width: 768px) {
+          &:nth-child(2) {
+            display: flex;
+          }
+        }
+
+        &:nth-child(3) {
+          font-weight: 500;
+          background-color: rgba(27, 31, 35, 0.08);
+          color: #444d56;
+
+          padding-left: 5px;
+          padding-right: 5px;
+
+          border-radius: 8px;
+        }
       }
     }
   }
 `;
 
 export const Issues = styled.div`
+  box-shadow: 0 4px 16px -8px rgba(1, 1, 1, 0.1);
   margin-top: 80px;
 
   a {
