@@ -20,10 +20,6 @@
     <img alt="Made by yuriduarte" src="https://img.shields.io/badge/made%20by-yuriduarte-%2304D361">
   </a>
 
-  <a href="https://github.com/yuriduarte/github-explorer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yuriduarte/github-explorer">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
