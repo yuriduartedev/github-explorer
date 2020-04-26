@@ -16,10 +16,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/yuriduarte/github-explorer">
 
-  <a href="https://www.linkedin.com/in/yuri-duarte/">
-    <img alt="Made by yuriduarte" src="https://img.shields.io/badge/made%20by-yuriduarte-%2304D361">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
