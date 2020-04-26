@@ -5,22 +5,16 @@
 <h4 align="center">
 	🕵🏻‍♂️ Github Explorer 🔎
 </h4>
-<p align="center">
+<p align="center">  
+  
+  <img alt="language version" src="https://img.shields.io/badge/Node-v_12.16.2-339933?logo=node.js">
+  <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/yuriduarte/github-explorer">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/yuriduarte/github-explorer">
+  
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yuriduarte/github-explorer?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/yuriduarte/github-explorer">
-
-  <a href="https://www.linkedin.com/in/yuri-duarte/">
-    <img alt="Made by yuriduarte" src="https://img.shields.io/badge/made%20by-yuriduarte-%2304D361">
-  </a>
-
-  <a href="https://github.com/yuriduarte/github-explorer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yuriduarte/github-explorer">
-  </a>
-
-  <a href="https://github.com/yuriduarte/github-explorer/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/yuriduarte/github-explorer">
-  </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
@@ -34,6 +28,8 @@
 </p>
 
 ## 📋 Projeto
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cdeaa970e74243a0bd902779f39e3200)](https://app.codacy.com/manual/yuriduarte/github-explorer?utm_source=github.com&utm_medium=referral&utm_content=yuriduarte/github-explorer&utm_campaign=Badge_Grade_Dashboard)
 
 * Aplicação desenvolvida para realizar pesquisas de repositórios utilizando a API do Github.<br><br><br>
 
