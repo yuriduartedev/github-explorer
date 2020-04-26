@@ -55,7 +55,7 @@ export const RepositoryInfo = styled.section`
       }
 
       p {
-        font-size: 3rem;
+        font-size: 2.3rem;
         color: #737380;
       }
     }
@@ -66,6 +66,10 @@ export const RepositoryInfo = styled.section`
     justify-content: center;
     list-style: none;
     margin-top: 40px;
+
+    @media (min-width: 768px) {
+      justify-content: start;
+    }
 
     li {
       background: #fff;
