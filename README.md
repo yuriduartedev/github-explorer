@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/github-explorer/blob/master/.github/mockup-gif.gif">
+  <img alt="Aplicativo Desktop" src="https://github.com/yuriduarte/github-explorer/blob/master/.github/gif-2.gif">
 </p>
 
 <br>
